@@ -1,5 +1,3 @@
-**Profile Card Component Readme**
-
 ### Overview
 Welcome to the Profile Card Component challenge! In this project, you'll be tasked with building a responsive profile card that displays essential information about a user or individual. This readme will guide you through the project requirements, structure, and provide some tips to help you successfully complete the challenge.
 
@@ -23,7 +21,7 @@ To get started with the challenge, you can follow these steps:
    git clone https://github.com/Yashi-Singh-1/Profile-Card-Component.git
    
 2. Open the project in your preferred code editor.
-3. Review the design specifications provided in the ![desktop-cover.png](Profile-Card-Component-Preview.png) file.
+3. Review the design specifications provided in the  preview file. ![desktop-cover.png](Profile-Card-Component-Preview.png) 
 4. Begin coding the profile card component using HTML and CSS.
 5. Test the component's responsiveness on various devices and screen sizes.
 6. Refine and adjust the styling to match the design closely.
